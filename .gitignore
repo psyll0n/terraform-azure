@@ -33,3 +33,8 @@ override.tf.json
 .terraformrc
 terraform.rc
 .terraform.lock.hcl
+
+
+# Ignore private keys.
+
+*.pem
